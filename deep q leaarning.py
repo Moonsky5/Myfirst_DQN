@@ -21,7 +21,6 @@ memory_size = 10000
 
 
 # Neural Network
-import numpy as np
 
 class SimpleNN:
     def __init__(self, input_size, hidden_size, output_size):
